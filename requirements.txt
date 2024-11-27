@@ -1,1 +1,5 @@
-pip freeze > requirements.txt
+flask==2.3.3
+matplotlib==3.7.2
+pandas==1.5.3
+ta==0.10.2
+requests==2.31.0
